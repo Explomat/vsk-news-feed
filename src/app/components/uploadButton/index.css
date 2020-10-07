@@ -1,0 +1,8 @@
+.learnings-upload-file {
+	height: auto !important;
+	padding: 4px !important;
+}
+
+.upload-file__filename {
+	margin-left: 12px;
+}

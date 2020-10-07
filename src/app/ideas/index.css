@@ -1,0 +1,139 @@
+
+.idea__topic-container {
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 26px;
+}
+
+.idea__topic {
+
+}
+
+.idea__topic_image {
+	width: 150px;
+	height: 100px;
+	display: inline-block;
+	margin-right: 12px;
+	float: left;
+}
+
+.idea__topic_title {
+	display: inline;
+}
+
+.ideas__ideas-list-container {
+	display: inline-block;
+	width: 70%;
+}
+
+.ideas__new_button {
+	float: right;
+}
+
+.idea {
+	padding: 24px;
+}
+
+.idea__body_edit {
+    border-radius: 4px;
+    padding: 4px;
+    -webkit-box-shadow: 10px 6px 17px -5px rgba(0,0,0,0.68);
+    -moz-box-shadow: 10px 6px 17px -5px rgba(0,0,0,0.68);
+    box-shadow: 10px 6px 17px -5px rgba(0,0,0,0.68);
+    clear: both;
+    padding: 12px;
+}
+
+.idea__body_edit_description {
+    margin-bottom: 12px !important;
+}
+
+.idea__body_edit_title {
+	margin-bottom: 12px !important;
+}
+
+.idea__header_buttons {
+    float: right;
+}
+
+.idea__header_cancel-button {
+    margin-right: 12px;
+}
+
+.idea__body_edit_title {
+    margin-bottom: 12px !important;
+}
+
+.idea__body_edit_description {
+    margin-bottom: 12px !important;
+}
+
+.ideas__idea-list {
+	position: relative;
+	border: 1px solid #0066a0;
+    padding: 8px;
+    border-radius: 4px;
+    margin-bottom: 12px;
+}
+
+.ideas__title {
+	border-bottom: 1px solid #4444443b;
+}
+
+.ideas__idea-list_icon-text {
+	margin-right: 8px;
+}
+
+.ideas__idea-list_body_icon {
+	margin-right: 4px;
+}
+
+.ideas__idea-list_footer-descr {
+	font-size: 12px;
+	color: #444444b3;
+}
+
+.ideas__idea-list_body_pubish-date {
+	float: right;
+	font-size: 12px;
+	color: #444444b3;
+}
+
+.ideas__idea-list_footer-descr {
+	float: right;
+}
+
+.ideas__idea-list_header {
+	margin-bottom: 8px;
+}
+
+.ideas__new_title {
+	margin-bottom: 4px !important;
+}
+
+.ideas__new_description {
+	margin-bottom: 4px !important;
+}
+
+.idea__header {
+	font-size: 12px;
+	color: #444444b3;
+}
+
+.idea__header_author-fullname {
+	margin-right: 12px;
+}
+
+.idea__header_save-button {
+	float: right;
+}
+
+.idea__body {
+	margin: 0px 0 30px 0;
+}
+
+.idea__body_description {
+    padding: 4px;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 28px;
+}

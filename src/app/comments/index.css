@@ -1,0 +1,87 @@
+.ant-tree li .ant-tree-node-content-wrapper.ant-tree-node-selected {
+	background-color: #fff !important;
+}
+
+.ant-tree li .ant-tree-node-content-wrapper {
+	height: auto !important;
+}
+
+.ant-tree li .ant-tree-node-content-wrapper {
+	cursor: auto !important;
+}
+
+.ant-tree li .ant-tree-node-content-wrapper:hover {
+    background-color: inherit !important;
+}
+
+.ant-tree li {
+	white-space: normal !important;
+	padding: 10px 0 !important;
+}
+
+.comment {
+	position: relative;
+	padding-bottom: 6px;
+}
+
+.comment__header {
+	margin-bottom: 8px;
+	background-color: #e6ecf14a;
+}
+
+.comment__avatar {
+	width: 30px;
+	height: 30px;
+}
+
+.comment__publish-date {
+	margin-left: 10px;
+    font-size: 11px;
+    color: #444444bf;
+}
+
+.comment__header_crud {
+	float: right;
+}
+
+.comment__like {
+	position: absolute;
+	right: 0;
+	padding: 0px 10px;
+}
+
+.comments__new {
+	margin-top: 20px;
+}
+
+.comments__new_text {
+	margin-bottom: 4px !important;
+}
+
+.comments__list-title {
+	border-bottom: 1px solid #4444443b;
+}
+
+.comment__buttons {
+	margin-top: 4px;
+}
+
+.comment__buttons > button {
+	margin-right: 8px;
+}
+
+.ant-tree-node-content-wrapper:last-child {
+	border-bottom: none;
+}
+
+.ant-tree li .ant-tree-node-content-wrapper {
+	width: 95%;
+}
+
+.ant-avatar-image {
+	margin-right: 6px !important;
+    width: 30px !important;
+    height: 30px !important;
+}
+
+    
